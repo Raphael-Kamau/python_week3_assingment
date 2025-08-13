@@ -1,3 +1,4 @@
 # Calss activity✍
-# 👨Week one web development module assingment
-This assingment help in understandint the HTML5 basics and also introduce you to web deveopmet, this is done by creating of a simple web page implementing the basic tags and attributes.
+## 👨Week one web development module assingment
+Python week three assingment based on this weeks concepts on functions and also the related concepts covered earlier in the course work.
+Happy coding
